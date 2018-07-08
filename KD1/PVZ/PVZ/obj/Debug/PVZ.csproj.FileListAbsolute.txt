@@ -1,0 +1,6 @@
+C:\Users\mur\Desktop\KD1\PVZ\PVZ\bin\Debug\PVZ.exe.config
+C:\Users\mur\Desktop\KD1\PVZ\PVZ\bin\Debug\PVZ.exe
+C:\Users\mur\Desktop\KD1\PVZ\PVZ\bin\Debug\PVZ.pdb
+C:\Users\mur\Desktop\KD1\PVZ\PVZ\obj\Debug\PVZ.csprojResolveAssemblyReference.cache
+C:\Users\mur\Desktop\KD1\PVZ\PVZ\obj\Debug\PVZ.exe
+C:\Users\mur\Desktop\KD1\PVZ\PVZ\obj\Debug\PVZ.pdb

@@ -1,0 +1,15 @@
+Atrinkti
+Kaunas
+vardas pavarde         Lytis   amzius  issilavinimas  zaidimu skaicius  Klausymai
+____________________________________________________________________________________
+antis tortas        ,    v,      18,       aukst,              5,              4,
+vardenis pav        ,    v,      28,       aukst,              5,              4,
+keksas Tortas       ,    v,      38,       aukst,              5,              4,
+ 
+Atrinkti
+Klaipeda
+vardas pavarde         Lytis   amzius  issilavinimas  zaidimu skaicius  Klausymai
+____________________________________________________________________________________
+kestas kestutis     ,    v,       5,       aukst,              5,              8,
+antanas antis       ,    v,      38,       aukst,              5,              4,
+ 

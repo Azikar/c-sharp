@@ -1,0 +1,19 @@
+Pradiniai
+|Modulis              |Vardas   |Pavarde               |Grupe 
+|prog                 | karolis | staniukynas          | ifin5/3|
+|mat                  | karolis | staniukynas          | ifin5/3|
+|mat                  | karolis | staniukynas          | ifin5/3|
+|mat                  | tomas   | tomas                |     if|
+ 
+|Pavadinimas          |Vardas   |Kreditai  |
+|prog                 | kestas  | 6        |
+|mat                  | bulve   | 6        |
+|info                 | keksas  | 6        |
+Pasirinkti
+|Pavadinimas          |Vardas   |Kreditai  |
+|prog                 | kestas  | 6        |
+|mat                  | bulve   | 6        |
+nepasirinkti
+ Nera 
+Daugiausiai moduliu turi
+|prog                 | karolis | staniukynas          | ifin5/3|

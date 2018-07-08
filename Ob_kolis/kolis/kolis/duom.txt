@@ -1,0 +1,3 @@
+kestas;lol;cake;300
+morka;lol;nom;100
+keksas;lol;cake;200

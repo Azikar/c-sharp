@@ -1,0 +1,2 @@
+Kaunas    lt                 3        10
+Vilnius   lt                 5         6

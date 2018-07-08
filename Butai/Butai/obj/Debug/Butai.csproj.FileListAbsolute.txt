@@ -1,0 +1,12 @@
+C:\Users\lietowis\Desktop\C#\P4\Butai\Butai\bin\Debug\Butai.exe.config
+C:\Users\lietowis\Desktop\C#\P4\Butai\Butai\bin\Debug\Butai.exe
+C:\Users\lietowis\Desktop\C#\P4\Butai\Butai\bin\Debug\Butai.pdb
+C:\Users\lietowis\Desktop\C#\P4\Butai\Butai\obj\Debug\Butai.csprojResolveAssemblyReference.cache
+C:\Users\lietowis\Desktop\C#\P4\Butai\Butai\obj\Debug\Butai.exe
+C:\Users\lietowis\Desktop\C#\P4\Butai\Butai\obj\Debug\Butai.pdb
+C:\Users\mur\Desktop\Butai\Butai\bin\Debug\Butai.exe.config
+C:\Users\mur\Desktop\Butai\Butai\obj\Debug\Butai.exe
+C:\Users\mur\Desktop\Butai\Butai\obj\Debug\Butai.pdb
+C:\Users\mur\Desktop\Butai\Butai\bin\Debug\Butai.exe
+C:\Users\mur\Desktop\Butai\Butai\bin\Debug\Butai.pdb
+C:\Users\mur\Desktop\Butai\Butai\obj\Debug\Butai.csprojResolveAssemblyReference.cache

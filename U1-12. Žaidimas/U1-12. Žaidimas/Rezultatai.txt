@@ -1,0 +1,40 @@
+ 
+Kaunas pradiniai duomenys
+vardas  pavarde       Lytis   amzius   issilavinimas   zaidimu skaicius    Klausymai
+____________________________________________________________________________________
+antis tortas            v       18       aukst               5               3
+vardenis pav            v       28       aukst               5               3
+keksas Tortas           v       38       aukst               5               3
+ 
+Klaipeda pradiniai duomenys
+vardas  pavarde       Lytis   amzius   issilavinimas   zaidimu skaicius    Klausymai
+____________________________________________________________________________________
+kestas kestutis         v        5     neaukst               5               8
+tomas tomutis           v       58     neaukst               5               8
+antanas antis           v       38     neaukst               5               4
+ 
+Kaunas surikiuota abc
+vardas  pavarde       Lytis   amzius   issilavinimas   zaidimu skaicius    Klausymai
+____________________________________________________________________________________
+antis tortas            v       18       aukst               5               3
+keksas Tortas           v       38       aukst               5               3
+vardenis pav            v       28       aukst               5               3
+ 
+Klaipeda surikiuota abc
+vardas  pavarde       Lytis   amzius   issilavinimas   zaidimu skaicius    Klausymai
+____________________________________________________________________________________
+antanas antis           v       38     neaukst               5               4
+kestas kestutis         v        5     neaukst               5               8
+tomas tomutis           v       58     neaukst               5               8
+ 
+daugiausiai turinciu aukstaji issilavinima yra Kaunas mieste
+ 
+Kaunas Pasalinta
+vardas  pavarde       Lytis   amzius   issilavinimas   zaidimu skaicius    Klausymai
+____________________________________________________________________________________
+antis tortas            v       18       aukst               5               3
+keksas Tortas           v       38       aukst               5               3
+vardenis pav            v       28       aukst               5               3
+ 
+Klaipeda Pasalinta
+ Nera

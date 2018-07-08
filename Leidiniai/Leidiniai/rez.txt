@@ -1,0 +1,18 @@
+Pavadinimas  Kiekis 
+____________________
+Zmones         113
+Keksas         613
+Mew             67
+cookie           4
+____________________
+Blogiausiai sekas 'cookie' zurnalui
+daugiausiai uzdirbs cookie
+____________________
+Seb:
+Zmones 2165131 1356Eu
+cookie 153515 400000Eu
+Swed:
+Keksas 513135 6130Eu
+Danske:
+Mew 13512213 1340Eu
+

@@ -1,0 +1,6 @@
+C:\Users\mur\Desktop\Ob_Egzas\date time\date time\bin\Debug\date time.exe.config
+C:\Users\mur\Desktop\Ob_Egzas\date time\date time\bin\Debug\date time.exe
+C:\Users\mur\Desktop\Ob_Egzas\date time\date time\bin\Debug\date time.pdb
+C:\Users\mur\Desktop\Ob_Egzas\date time\date time\obj\Debug\date time.csprojResolveAssemblyReference.cache
+C:\Users\mur\Desktop\Ob_Egzas\date time\date time\obj\Debug\date time.exe
+C:\Users\mur\Desktop\Ob_Egzas\date time\date time\obj\Debug\date time.pdb

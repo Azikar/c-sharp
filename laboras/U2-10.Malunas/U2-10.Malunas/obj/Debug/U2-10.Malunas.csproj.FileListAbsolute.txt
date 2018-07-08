@@ -1,0 +1,12 @@
+B:\Programavimas\laboras\U2-10.Malunas\U2-10.Malunas\bin\Debug\U2-10.Malunas.exe.config
+B:\Programavimas\laboras\U2-10.Malunas\U2-10.Malunas\bin\Debug\U2-10.Malunas.exe
+B:\Programavimas\laboras\U2-10.Malunas\U2-10.Malunas\bin\Debug\U2-10.Malunas.pdb
+B:\Programavimas\laboras\U2-10.Malunas\U2-10.Malunas\obj\Debug\U2-10.Malunas.csprojResolveAssemblyReference.cache
+B:\Programavimas\laboras\U2-10.Malunas\U2-10.Malunas\obj\Debug\U2-10.Malunas.exe
+B:\Programavimas\laboras\U2-10.Malunas\U2-10.Malunas\obj\Debug\U2-10.Malunas.pdb
+C:\Users\mur\Desktop\laboras\U2-10.Malunas\U2-10.Malunas\bin\Debug\U2-10.Malunas.exe.config
+C:\Users\mur\Desktop\laboras\U2-10.Malunas\U2-10.Malunas\obj\Debug\U2-10.Malunas.exe
+C:\Users\mur\Desktop\laboras\U2-10.Malunas\U2-10.Malunas\obj\Debug\U2-10.Malunas.pdb
+C:\Users\mur\Desktop\laboras\U2-10.Malunas\U2-10.Malunas\bin\Debug\U2-10.Malunas.exe
+C:\Users\mur\Desktop\laboras\U2-10.Malunas\U2-10.Malunas\bin\Debug\U2-10.Malunas.pdb
+C:\Users\mur\Desktop\laboras\U2-10.Malunas\U2-10.Malunas\obj\Debug\U2-10.Malunas.csprojResolveAssemblyReference.cache

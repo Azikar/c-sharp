@@ -1,0 +1,33 @@
+c:\users\merp\documents\visual studio 2015\Projects\chat\chat\bin\Debug\chat.exe.config
+c:\users\merp\documents\visual studio 2015\Projects\chat\chat\bin\Debug\chat.exe
+c:\users\merp\documents\visual studio 2015\Projects\chat\chat\bin\Debug\chat.pdb
+c:\users\merp\documents\visual studio 2015\Projects\chat\chat\obj\Debug\chat.csprojResolveAssemblyReference.cache
+c:\users\merp\documents\visual studio 2015\Projects\chat\chat\obj\Debug\chat.Form1.resources
+c:\users\merp\documents\visual studio 2015\Projects\chat\chat\obj\Debug\chat.Properties.Resources.resources
+c:\users\merp\documents\visual studio 2015\Projects\chat\chat\obj\Debug\chat.csproj.GenerateResource.Cache
+c:\users\merp\documents\visual studio 2015\Projects\chat\chat\obj\Debug\chat.exe
+c:\users\merp\documents\visual studio 2015\Projects\chat\chat\obj\Debug\chat.pdb
+F:\chat\chat\bin\Debug\chat.exe.config
+F:\chat\chat\obj\Debug\chat.exe
+F:\chat\chat\obj\Debug\chat.pdb
+F:\chat\chat\bin\Debug\chat.exe
+F:\chat\chat\bin\Debug\chat.pdb
+F:\chat\chat\obj\Debug\chat.Form1.resources
+F:\chat\chat\obj\Debug\chat.Properties.Resources.resources
+F:\chat\chat\obj\Debug\chat.csproj.GenerateResource.Cache
+F:\chat\chat\bin\Debug\Emgu.CV.UI.dll
+F:\chat\chat\bin\Debug\Emgu.CV.UI.GL.dll
+F:\chat\chat\bin\Debug\Emgu.CV.World.dll
+F:\chat\chat\bin\Debug\ZedGraph.dll
+F:\chat\chat\bin\Debug\Emgu.CV.UI.xml
+F:\chat\chat\bin\Debug\Emgu.CV.UI.GL.xml
+F:\chat\chat\bin\Debug\Emgu.CV.World.xml
+F:\chat\chat\bin\Debug\concrt140.dll
+F:\chat\chat\bin\Debug\cvextern.dll
+F:\chat\chat\bin\Debug\msvcp140.dll
+F:\chat\chat\bin\Debug\opencv_ffmpeg320.dll
+F:\chat\chat\bin\Debug\vcruntime140.dll
+F:\chat\chat\obj\Debug\chat.csprojResolveAssemblyReference.cache
+F:\chat\chat\bin\Debug\MySql.Data.dll
+F:\chat\chat\bin\Debug\Google.Protobuf.dll
+F:\chat\chat\bin\Debug\MySql.Data.xml

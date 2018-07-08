@@ -1,0 +1,6 @@
+c:\users\merp\documents\visual studio 2015\Projects\lab1.2\lab1.2\bin\Debug\lab1.2.exe.config
+c:\users\merp\documents\visual studio 2015\Projects\lab1.2\lab1.2\obj\Debug\lab1.2.csprojResolveAssemblyReference.cache
+c:\users\merp\documents\visual studio 2015\Projects\lab1.2\lab1.2\bin\Debug\lab1.2.exe
+c:\users\merp\documents\visual studio 2015\Projects\lab1.2\lab1.2\bin\Debug\lab1.2.pdb
+c:\users\merp\documents\visual studio 2015\Projects\lab1.2\lab1.2\obj\Debug\lab1.2.exe
+c:\users\merp\documents\visual studio 2015\Projects\lab1.2\lab1.2\obj\Debug\lab1.2.pdb

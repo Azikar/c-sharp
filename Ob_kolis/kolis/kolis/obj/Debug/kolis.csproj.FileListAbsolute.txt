@@ -1,0 +1,6 @@
+C:\Users\mur\Desktop\Ob_kolis\kolis\kolis\bin\Debug\kolis.exe.config
+C:\Users\mur\Desktop\Ob_kolis\kolis\kolis\bin\Debug\kolis.exe
+C:\Users\mur\Desktop\Ob_kolis\kolis\kolis\bin\Debug\kolis.pdb
+C:\Users\mur\Desktop\Ob_kolis\kolis\kolis\obj\Debug\kolis.csprojResolveAssemblyReference.cache
+C:\Users\mur\Desktop\Ob_kolis\kolis\kolis\obj\Debug\kolis.exe
+C:\Users\mur\Desktop\Ob_kolis\kolis\kolis\obj\Debug\kolis.pdb

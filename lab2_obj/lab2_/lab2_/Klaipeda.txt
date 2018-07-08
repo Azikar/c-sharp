@@ -1,0 +1,4 @@
+﻿Klaipeda
+kestas kestutis;v;5;aukst;5;8;
+tomas tomutis;v;58;aukst;5;4;
+antanas antis;v;38;aukst;5;4;

@@ -1,0 +1,3 @@
+labas as mew;1200;100
+mew mew;100;1
+nur mew;100;1

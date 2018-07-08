@@ -1,0 +1,6 @@
+c:\users\merp\documents\visual studio 2015\Projects\testinis\testinis\bin\Debug\testinis.exe.config
+c:\users\merp\documents\visual studio 2015\Projects\testinis\testinis\bin\Debug\testinis.exe
+c:\users\merp\documents\visual studio 2015\Projects\testinis\testinis\bin\Debug\testinis.pdb
+c:\users\merp\documents\visual studio 2015\Projects\testinis\testinis\obj\Debug\testinis.csprojResolveAssemblyReference.cache
+c:\users\merp\documents\visual studio 2015\Projects\testinis\testinis\obj\Debug\testinis.exe
+c:\users\merp\documents\visual studio 2015\Projects\testinis\testinis\obj\Debug\testinis.pdb

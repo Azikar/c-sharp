@@ -1,0 +1,7 @@
+Žaidimas. Dabar labai populiarus žaidimas „Protmušis“, kuriame dalyviai atsakineja i ivairius klausimus. Klaipedieciai ir kaunieciai planuoja dalyvauti žaidime ir nori sudaryti komanda. Apie kiekviena kandidata žinoma informacija: vardas ir pavarde, amžius, lytis, išsilavinimas, keliuose žaidimuose dalyvavo, i kelis klausimus atsake teisingai. Faile pirmoje eiluteje yra komandos pavadinimas. L1+L2+L4.
+Raskite kurioje miesto kandidatu saraše yra daugiau žaideju su aukštuoju išsilavinimu.
+Sudarykite dvi komandas kuriose žaidejai butu ne vyresni kaip m metu ir atsake i daugiau negu k klausimu. 
+Surikiuokite suformuotus sarašus pagal vardus ir pavardes.
+Pašalinkite iš rezultatu sarašu kandidatus, kurie neturi aukštojo išsilavinimo
+
+Ivedami duomenys ir atliekami veiksmai, meniu issydestymo tvarka.

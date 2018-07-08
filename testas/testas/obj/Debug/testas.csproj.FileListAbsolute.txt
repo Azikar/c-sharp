@@ -1,0 +1,10 @@
+c:\users\merp\documents\visual studio 2015\Projects\testas\testas\bin\Debug\testas.exe.config
+C:\Users\merp\Documents\Visual Studio 2015\Projects\testas\testas\bin\Debug\testas.exe
+C:\Users\merp\Documents\Visual Studio 2015\Projects\testas\testas\bin\Debug\testas.pdb
+C:\Users\merp\Documents\Visual Studio 2015\Projects\testas\testas\obj\Debug\testas.csprojResolveAssemblyReference.cache
+C:\Users\merp\Documents\Visual Studio 2015\Projects\testas\testas\obj\Debug\testas.Form1.resources
+C:\Users\merp\Documents\Visual Studio 2015\Projects\testas\testas\obj\Debug\testas.Form2.resources
+C:\Users\merp\Documents\Visual Studio 2015\Projects\testas\testas\obj\Debug\testas.Properties.Resources.resources
+C:\Users\merp\Documents\Visual Studio 2015\Projects\testas\testas\obj\Debug\testas.csproj.GenerateResource.Cache
+C:\Users\merp\Documents\Visual Studio 2015\Projects\testas\testas\obj\Debug\testas.exe
+C:\Users\merp\Documents\Visual Studio 2015\Projects\testas\testas\obj\Debug\testas.pdb

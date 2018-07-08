@@ -1,0 +1,12 @@
+B:\Programavimas\P5\Laboras\Laboras\bin\Debug\Laboras.exe.config
+B:\Programavimas\P5\Laboras\Laboras\bin\Debug\Laboras.exe
+B:\Programavimas\P5\Laboras\Laboras\bin\Debug\Laboras.pdb
+B:\Programavimas\P5\Laboras\Laboras\obj\Debug\Laboras.csprojResolveAssemblyReference.cache
+B:\Programavimas\P5\Laboras\Laboras\obj\Debug\Laboras.exe
+B:\Programavimas\P5\Laboras\Laboras\obj\Debug\Laboras.pdb
+C:\Users\mur\Desktop\laboras\Laboras\Laboras\bin\Debug\Laboras.exe.config
+C:\Users\mur\Desktop\laboras\Laboras\Laboras\obj\Debug\Laboras.exe
+C:\Users\mur\Desktop\laboras\Laboras\Laboras\obj\Debug\Laboras.pdb
+C:\Users\mur\Desktop\laboras\Laboras\Laboras\bin\Debug\Laboras.exe
+C:\Users\mur\Desktop\laboras\Laboras\Laboras\bin\Debug\Laboras.pdb
+C:\Users\mur\Desktop\laboras\Laboras\Laboras\obj\Debug\Laboras.csprojResolveAssemblyReference.cache

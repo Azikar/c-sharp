@@ -1,0 +1,6 @@
+C:\Users\mur\Desktop\Ob_Egzas1\3\3\bin\Debug\3.exe.config
+C:\Users\mur\Desktop\Ob_Egzas1\3\3\bin\Debug\3.exe
+C:\Users\mur\Desktop\Ob_Egzas1\3\3\bin\Debug\3.pdb
+C:\Users\mur\Desktop\Ob_Egzas1\3\3\obj\Debug\3.csprojResolveAssemblyReference.cache
+C:\Users\mur\Desktop\Ob_Egzas1\3\3\obj\Debug\3.exe
+C:\Users\mur\Desktop\Ob_Egzas1\3\3\obj\Debug\3.pdb

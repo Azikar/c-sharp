@@ -1,0 +1,8 @@
+Pradiniai
+|Vardas          |rase             |Klase           |HP  |MP  |DEF |Jega |AGI |Inte|     Power|
+|keksas          | zmogus          |fighter         | 150| 100| 200|  100| 200| 100|      fire|
+ 
+Daugiausiai HP
+  |Vardas          |rase             |Klase           |HP  |MP  |DEF |Jega |AGI |Inte|     Power|
+1 |keksas          | zmogus          |fighter         | 150| 100| 200|  100| 200| 100|      fire|
+ 

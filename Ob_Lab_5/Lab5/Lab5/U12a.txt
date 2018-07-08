@@ -1,0 +1,4 @@
+prog;karolis;staniukynas;ifin5/3
+mat;karolis;staniukynas;ifin5/3
+mat;karolis;staniukynas;ifin5/3
+mat;tomas;tomas;if

@@ -1,0 +1,7 @@
+d4 A6 8 9 vienpusis psl ismusimas
+d1 A4 10 8 vienpusis psl susegimas
+d2 A3 4 5 dvipusis psl ismusimas
+d3 A5 10 10 vienpusis abc susegimas
+d5 A6 1 1 vienpusis psl susegimas
+d4 A6 8 9 vienpusis psl ismusimas
+d5 A4 10 100 vienpusis psl susegimas

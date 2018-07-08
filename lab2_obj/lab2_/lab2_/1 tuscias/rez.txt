@@ -1,0 +1,47 @@
+Atrinkti
+Kaunas
+Nera
+ 
+Atrinkti
+Klaipeda
+vardas pavarde         Lytis   amzius  issilavinimas  zaidimu skaicius  Klausymai
+____________________________________________________________________________________
+kestas kestutis     ,    v,       5,       aukst,              5,              8,
+antanas antis       ,    v,      38,       aukst,              5,              4,
+ 
+surikiuota
+Kaunas
+Nera
+ 
+surikiuota
+Klaipeda
+vardas pavarde         Lytis   amzius  issilavinimas  zaidimu skaicius  Klausymai
+____________________________________________________________________________________
+antanas antis       ,    v,      38,       aukst,              5,              4,
+kestas kestutis     ,    v,       5,       aukst,              5,              8,
+ 
+pasalinta
+Kaunas
+Nera
+ 
+pasalinta
+Klaipeda
+vardas pavarde         Lytis   amzius  issilavinimas  zaidimu skaicius  Klausymai
+____________________________________________________________________________________
+antanas antis       ,    v,      38,       aukst,              5,              4,
+kestas kestutis     ,    v,       5,       aukst,              5,              8,
+ 
+Iterpta
+Kaunas
+vardas pavarde         Lytis   amzius  issilavinimas  zaidimu skaicius  Klausymai
+____________________________________________________________________________________
+mew kestutis        ,    v,       5,       aukst,              5,              8,
+bam antis           ,    v,      38,       aukst,              5,              4,
+ 
+Iterpta
+Klaipeda
+vardas pavarde         Lytis   amzius  issilavinimas  zaidimu skaicius  Klausymai
+____________________________________________________________________________________
+antanas antis       ,    v,      38,       aukst,              5,              4,
+kestas kestutis     ,    v,       5,       aukst,              5,              8,
+ 

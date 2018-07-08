@@ -1,0 +1,12 @@
+B:\Programavimas\Nd1_programavimas2\Nd1_programavimas2\bin\Debug\Nd1_programavimas2.exe.config
+B:\Programavimas\Nd1_programavimas2\Nd1_programavimas2\bin\Debug\Nd1_programavimas2.exe
+B:\Programavimas\Nd1_programavimas2\Nd1_programavimas2\bin\Debug\Nd1_programavimas2.pdb
+B:\Programavimas\Nd1_programavimas2\Nd1_programavimas2\obj\Debug\Nd1_programavimas2.Form1.resources
+B:\Programavimas\Nd1_programavimas2\Nd1_programavimas2\obj\Debug\Nd1_programavimas2.Properties.Resources.resources
+B:\Programavimas\Nd1_programavimas2\Nd1_programavimas2\obj\Debug\Nd1_programavimas2.csproj.GenerateResource.Cache
+B:\Programavimas\Nd1_programavimas2\Nd1_programavimas2\obj\Debug\Nd1_programavimas2.exe
+B:\Programavimas\Nd1_programavimas2\Nd1_programavimas2\obj\Debug\Nd1_programavimas2.pdb
+B:\Programavimas\Nd1_programavimas2\Nd1_programavimas2\obj\Debug\Nd1_programavimas2.csprojResolveAssemblyReference.cache
+C:\Users\mur\Desktop\Nd1_programavimas2\Nd1_programavimas2\bin\Debug\Nd1_programavimas2.exe.config
+C:\Users\mur\Desktop\Nd1_programavimas2\Nd1_programavimas2\obj\Debug\Nd1_programavimas2.exe
+C:\Users\mur\Desktop\Nd1_programavimas2\Nd1_programavimas2\obj\Debug\Nd1_programavimas2.pdb

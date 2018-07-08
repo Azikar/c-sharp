@@ -1,0 +1,10 @@
+B:\Programavimas\U1-12. Žaidimas\U1-12. Žaidimas\bin\Debug\U1_12.Žaidimas.exe.config
+C:\Users\mur\Desktop\U1-12. Žaidimas\U1-12. Žaidimas\bin\Debug\U1_12.Žaidimas.exe.config
+C:\Users\mur\Desktop\U1-12. Žaidimas\U1-12. Žaidimas\bin\Debug\U1_12.Žaidimas.exe
+C:\Users\mur\Desktop\U1-12. Žaidimas\U1-12. Žaidimas\bin\Debug\U1_12.Žaidimas.pdb
+C:\Users\mur\Desktop\U1-12. Žaidimas\U1-12. Žaidimas\obj\Debug\U1-12. Žaidimas.csprojResolveAssemblyReference.cache
+C:\Users\mur\Desktop\U1-12. Žaidimas\U1-12. Žaidimas\obj\Debug\U1_12.Žaidimas.Form1.resources
+C:\Users\mur\Desktop\U1-12. Žaidimas\U1-12. Žaidimas\obj\Debug\U1_12.Žaidimas.Properties.Resources.resources
+C:\Users\mur\Desktop\U1-12. Žaidimas\U1-12. Žaidimas\obj\Debug\U1-12. Žaidimas.csproj.GenerateResource.Cache
+C:\Users\mur\Desktop\U1-12. Žaidimas\U1-12. Žaidimas\obj\Debug\U1_12.Žaidimas.exe
+C:\Users\mur\Desktop\U1-12. Žaidimas\U1-12. Žaidimas\obj\Debug\U1_12.Žaidimas.pdb

@@ -1,0 +1,21 @@
+Kaunas pradiniai duomenys
+vardas  pavarde       Lytis   amzius   issilavinimas   zaidimu skaicius    Klausymai
+____________________________________________________________________________________
+antis tortas            v       18       aukst               5               3
+vardenis pav            v       28       aukst               5               3
+keksas Tortas           v       38       aukst               5               3
+ 
+Klaipeda pradiniai duomenys
+vardas  pavarde       Lytis   amzius   issilavinimas   zaidimu skaicius    Klausymai
+____________________________________________________________________________________
+antis tortas            v       18       aukst               5               3
+vardenis pav            v       28     neaukst               5               3
+keksas Tortas           v       38       aukst               5               3
+ 
+Daugiausia su aukstuoju yra: Kaunas
+Atrinkta Kauno komanda
+Nera
+ 
+Atrinkta Klaipedos komanda
+Nera
+ 

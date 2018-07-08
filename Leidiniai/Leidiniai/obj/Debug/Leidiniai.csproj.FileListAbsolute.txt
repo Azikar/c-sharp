@@ -1,0 +1,12 @@
+B:\Programavimas\Leidiniai\Leidiniai\bin\Debug\Leidiniai.exe.config
+B:\Programavimas\Leidiniai\Leidiniai\bin\Debug\Leidiniai.exe
+B:\Programavimas\Leidiniai\Leidiniai\bin\Debug\Leidiniai.pdb
+B:\Programavimas\Leidiniai\Leidiniai\obj\Debug\Leidiniai.csprojResolveAssemblyReference.cache
+B:\Programavimas\Leidiniai\Leidiniai\obj\Debug\Leidiniai.exe
+B:\Programavimas\Leidiniai\Leidiniai\obj\Debug\Leidiniai.pdb
+C:\Users\mur\Desktop\Leidiniai\Leidiniai\bin\Debug\Leidiniai.exe.config
+C:\Users\mur\Desktop\Leidiniai\Leidiniai\obj\Debug\Leidiniai.exe
+C:\Users\mur\Desktop\Leidiniai\Leidiniai\obj\Debug\Leidiniai.pdb
+C:\Users\mur\Desktop\Leidiniai\Leidiniai\bin\Debug\Leidiniai.exe
+C:\Users\mur\Desktop\Leidiniai\Leidiniai\bin\Debug\Leidiniai.pdb
+C:\Users\mur\Desktop\Leidiniai\Leidiniai\obj\Debug\Leidiniai.csprojResolveAssemblyReference.cache

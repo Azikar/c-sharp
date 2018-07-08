@@ -1,0 +1,12 @@
+B:\Programavimas\P4\Laboras\10_Kopijavimas\10_Kopijavimas\bin\Debug\10_Kopijavimas.exe.config
+B:\Programavimas\P4\Laboras\10_Kopijavimas\10_Kopijavimas\bin\Debug\10_Kopijavimas.exe
+B:\Programavimas\P4\Laboras\10_Kopijavimas\10_Kopijavimas\bin\Debug\10_Kopijavimas.pdb
+B:\Programavimas\P4\Laboras\10_Kopijavimas\10_Kopijavimas\obj\Debug\10_Kopijavimas.csprojResolveAssemblyReference.cache
+B:\Programavimas\P4\Laboras\10_Kopijavimas\10_Kopijavimas\obj\Debug\10_Kopijavimas.exe
+B:\Programavimas\P4\Laboras\10_Kopijavimas\10_Kopijavimas\obj\Debug\10_Kopijavimas.pdb
+C:\Users\mur\Desktop\10_Kopijavimas\10_Kopijavimas\bin\Debug\10_Kopijavimas.exe.config
+C:\Users\mur\Desktop\10_Kopijavimas\10_Kopijavimas\obj\Debug\10_Kopijavimas.exe
+C:\Users\mur\Desktop\10_Kopijavimas\10_Kopijavimas\obj\Debug\10_Kopijavimas.pdb
+C:\Users\mur\Desktop\10_Kopijavimas\10_Kopijavimas\obj\Debug\10_Kopijavimas.csprojResolveAssemblyReference.cache
+C:\Users\mur\Desktop\10_Kopijavimas\10_Kopijavimas\bin\Debug\10_Kopijavimas.exe
+C:\Users\mur\Desktop\10_Kopijavimas\10_Kopijavimas\bin\Debug\10_Kopijavimas.pdb

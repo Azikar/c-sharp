@@ -1,0 +1,3 @@
+prog;kestas;6
+mat;bulve;6
+info;keksas;6

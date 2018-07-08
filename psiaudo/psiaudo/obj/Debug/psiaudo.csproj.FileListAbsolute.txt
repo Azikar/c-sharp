@@ -1,0 +1,6 @@
+c:\users\merp\documents\visual studio 2015\Projects\psiaudo\psiaudo\bin\Debug\psiaudo.exe.config
+c:\users\merp\documents\visual studio 2015\Projects\psiaudo\psiaudo\bin\Debug\psiaudo.exe
+c:\users\merp\documents\visual studio 2015\Projects\psiaudo\psiaudo\bin\Debug\psiaudo.pdb
+c:\users\merp\documents\visual studio 2015\Projects\psiaudo\psiaudo\obj\Debug\psiaudo.csprojResolveAssemblyReference.cache
+c:\users\merp\documents\visual studio 2015\Projects\psiaudo\psiaudo\obj\Debug\psiaudo.exe
+c:\users\merp\documents\visual studio 2015\Projects\psiaudo\psiaudo\obj\Debug\psiaudo.pdb
